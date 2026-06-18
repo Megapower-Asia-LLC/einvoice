@@ -19,3 +19,7 @@ coverage/
 *.log
 npm-debug.log*
 pnpm-debug.log*
+
+# Claude Code（本機設定與 session 工作記憶，不進版控）
+.claude/settings.local.json
+.remember/
